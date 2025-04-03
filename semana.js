@@ -23,9 +23,9 @@ if (numero < 0) {
 
 // Crie um sistema de pontuação para um jogo. Se a pontuação for maior ou igual a 100, mostre "Parabéns, você venceu!". Caso contrário, mostre "Tente novamente para ganhar.".
 let pontuacao = 0;
-let resposta1 = prompt('a girafa é de que cor?');
+let resposta1 = prompt('a arara azul é de que cor?');
 let resposta2 = prompt('o tigre é de que cor?');
-if (resposta1 == amarela) {
+if (resposta1 == azul) {
    pontuacao + 50;
 } else {
    pontuacao + 0;
