@@ -44,7 +44,7 @@ if (pontuacao = 100) {
 //Crie uma mensagem que informa o usuário sobre o saldo da conta, usando uma template string para incluir o valor do saldo.
 let saldo = 300;
 alert('olhar saldo da conta');
-alert(`saldo disponivel é ${saldo}`;)
+alert(`saldo disponivel é ${saldo}`);
 
 //Peça ao usuário para inserir seu nome usando prompt. Em seguida, mostre um alerta de boas-vindas usando esse nome.
 let nomeusuario = prompt('digite seu nome');
